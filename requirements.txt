@@ -1,0 +1,3 @@
+PyMuPDF
+pdf-toc
+streamlit
